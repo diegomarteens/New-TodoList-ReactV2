@@ -61,8 +61,10 @@
 		]
 	},
 	"dependencies": {
+		"-": "^0.0.1",
 		"@popperjs/core": "^2.10.1",
 		"bootstrap": "^5.1.1",
+		"icons": "^1.0.0",
 		"prop-types": "^15.6.1",
 		"query-string": "^5.1.1",
 		"react": "^16.14.0",
